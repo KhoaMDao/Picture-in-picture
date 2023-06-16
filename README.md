@@ -3,7 +3,7 @@
 # Overview
 This application is a simple, yet powerful demonstration of the Picture in Picture Web API and Screen Capture API. It provides users the ability to view any screen of their choice in a resizable Picture-in-Picture (PiP) window. The application has been developed using HTML, CSS, and JavaScript.
 
-<img width="1512" alt="PiPWeb" src="https://github.com/KhoaMDao/Picture-in-picture/assets/114627954/6f564be3-9826-4f36-bae4-b80c0d94f673">
+<img width="1457" alt="Screenshot 2023-06-16 at 9 47 21 AM" src="https://github.com/KhoaMDao/Picture-in-picture/assets/114627954/861ff0f5-f124-430a-803a-b08f10120803">
 
 # Key Features and API Usage
 Picture-in-Picture Web API:
